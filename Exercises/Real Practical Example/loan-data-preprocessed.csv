@@ -1,4 +1,4 @@
-id,loan_amnt_USD,loan_amnt_EUR,funded_amnt_USD,funded_amnt_EUR,int_rate,installment_USD,installment_EUR,total_pymnt_USD,total_pymnt_EUR,exchange_rate,issue_date,loan_status,term_months,sub_grade,verification_status,state_address
+id,loan_amnt_USD,exchange_rate,funded_amnt_USD,loan_amnt_EUR,int_rate,installment_USD,funded_amnt_EUR,total_pymnt_USD,installment_EUR,exchange_rate,issue_date,loan_status,term_months,sub_grade,verification_status,state_address
 373332.0,9950.0,9038.082814338286,1000.0,908.3500315917876,0.1825,360.97,327.8871109036876,1072.82,974.4960808923015,1.100897192955017,10.0,1.0,36.0,21.0,0.0,1.0
 575239.0,12000.0,10900.20037910145,12000.0,10900.20037910145,0.20989999999999998,324.58,294.8322532540624,959.75,871.788942820218,1.100897192955017,10.0,1.0,60.0,25.0,1.0,2.0
 707689.0,10000.0,8924.29980495201,10000.0,8924.29980495201,0.1366,340.13,303.54220926583275,3726.25,3325.417214820243,1.1205360889434814,2.0,1.0,36.0,13.0,1.0,0.0
